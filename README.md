@@ -9,7 +9,7 @@ This enables stakeholders to **monitor operations, track revenue and identify cu
 
 ## 📊 Live Dashboard
 
-🔗 **View Interactive Dashboard:** *(Add your Power BI link here)*
+🔗 **View Interactive Dashboard:** *(https://github.com/anushri2511/Credit_Card_Financial_Dashboard/blob/33d3015dd3bfd1bc68dce5a7e8465e5ff20691ee/Project.pbix)*
 
 ---
 
